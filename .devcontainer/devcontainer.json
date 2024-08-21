@@ -20,11 +20,14 @@
 			"extensions": [
 				"esbenp.prettier-vscode",
 				"vscode-icons-team.vscode-icons",
-				"wayou.vscode-todo-highlight"
+				"wayou.vscode-todo-highlight",
+				"PawelBorkar.jellyfish",
+				"akamud.vscode-theme-onedark",
+				"formulahendry.code-runner"
 			],
 			"settings": {
-				"editor.fontSize": 22,
-				"terminal.integrated.fontSize": 24,
+				"editor.fontSize": 16, 
+				"terminal.integrated.fontSize": 14,
 				"editor.wordWrap": "on"
 			}
 			
