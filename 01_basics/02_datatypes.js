@@ -27,4 +27,4 @@ let isLoggedIn = false //boolean data type
 console.log(typeof "abhinav");  // it will show string
 console.log(typeof age);  // it will show number
 console.log(typeof undefined);  // it will show undefined
-console.log(typeof null);  //it will show Object
+console.log(typeof null);  // it will show Object
